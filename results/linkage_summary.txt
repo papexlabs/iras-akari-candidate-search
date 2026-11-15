@@ -1,0 +1,10 @@
+run              tracklets  linkages  max_nights  n(4 nights)  n(4n, in box)  n(4n, in box, r-equiv spread < 0.5 mag)
+mirror               40499       145           4           37             32       0
+real                 41692       151           4           40             34       0
+shuffle:1            38923        89           4           20             14       0
+shuffle:2            28363       115           4           29             25       3
+shuffle:3            38820       173           4           53             48       0
+shuffle:4            34875       145           4           39             34       0
+shuffle:5            37442       141           4           37             31       0
+
+Real-data 4-night, in-box, photometrically consistent linkages (cannot be confirmed: 2 dof):

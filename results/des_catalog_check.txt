@@ -1,0 +1,5 @@
+rows 814; max geocentric discovery distance 96.1 au; n(d>80) 2; n(d>100) 0
+  2003 UB313   d=96.1 au a=67.8 au
+  2014 UZ224   d=91.5 au a=108.6 au
+  2014 US277   d=79.3 au a=99.2 au
+objects with barycentric direction within 3 deg box of RA 35.1, Dec -49.5: 0

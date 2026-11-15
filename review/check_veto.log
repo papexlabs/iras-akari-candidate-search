@@ -1,0 +1,5 @@
+tracks 3000, on-chip epochs 119760
+true rule fires: 0.0122; proxy fires: 0.0274; both 0.0108; true only 0.0014; proxy only 0.0166; union 0.0288
+true-only cases: with a static measurement among the neighbours {'static_meas': 107, 'only_transient_meas': 59}
+per-track loss fraction: proxy median 0.023 p90 0.073 max 0.206; union median 0.023 p90 0.075 max 0.206
+173s

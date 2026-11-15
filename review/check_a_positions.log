@@ -1,0 +1,11 @@
+exposures: mine 245, repo 245; same order: True; nights 92
+observer position, mine (geocentre) vs repo: max diff 0.000e+00 au
+CTIO - geocentre: max 4.261e-05 au
+members compared: 304 x 245 epochs (r_ref 295-905 au)
+repo sky_at vs independent, geocentric: max 0.0053"  median-of-max 0.0043"
+repo sky_at vs independent, CTIO topocentric: max 0.0255"  median-of-max 0.0123"
+slowest sky rate at any exposure epoch: 3.18"/day (member r_ref 905 au); 5th pct of per-member minima 3.31
+min separation between positions on different nights: 2.9"
+max |BK(mine) - BK(repo stored)|: a 1.28e-06" b 9.96e-07" g 8.88e-16 ad 1.99e-10 bd 4.65e-10 gd 8.88e-16
+gnomonic mine vs repo: max 2.12e-06 arcsec
+done in 8s

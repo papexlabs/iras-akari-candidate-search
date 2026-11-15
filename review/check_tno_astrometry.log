@@ -1,0 +1,10 @@
+2013 RV124 [topocentric CTIO]: 26 detections on 17 nights, mag 21.5-23.3; chi2/nu = 3.41 with the SEARCH error model; max radial |res|/sigma = 6.23 (linker outlier cut 5.66); n beyond cut = 1; max |res| = 0.400" (gate 1"); rms res per axis 0.108" vs model sigma rms 0.070"
+   without the worst point: chi2/nu = 2.69, max radial 4.33 sigma
+   worst detection: c4d.373170.36.1041 z mag 22.36 flags 0 res 0.165" (6.2 sigma)
+   per-detection |res|/sigma sorted: [6.23 4.33 4.27 3.52 3.03 2.82]
+2013 RV124 [geocentric]: 26 detections on 17 nights, mag 21.5-23.3; chi2/nu = 16.83 with the SEARCH error model; max radial |res|/sigma = 13.54 (linker outlier cut 5.66); n beyond cut = 7; max |res| = 0.577" (gate 1"); rms res per axis 0.268" vs model sigma rms 0.070"
+2014 ST373 [topocentric CTIO]: 33 detections on 19 nights, mag 22.3-23.2; chi2/nu = 0.96 with the SEARCH error model; max radial |res|/sigma = 2.14 (linker outlier cut 5.66); n beyond cut = 0; max |res| = 0.209" (gate 1"); rms res per axis 0.081" vs model sigma rms 0.075"
+   without the worst point: chi2/nu = 0.91, max radial 1.91 sigma
+   worst detection: c4d.362099.54.1034 g mag 22.61 flags 0 res 0.185" (2.1 sigma)
+   per-detection |res|/sigma sorted: [2.14 1.92 1.84 1.84 1.82 1.8 ]
+2014 ST373 [geocentric]: 33 detections on 19 nights, mag 22.3-23.2; chi2/nu = 1.24 with the SEARCH error model; max radial |res|/sigma = 2.49 (linker outlier cut 5.66); n beyond cut = 0; max |res| = 0.232" (gate 1"); rms res per axis 0.093" vs model sigma rms 0.075"

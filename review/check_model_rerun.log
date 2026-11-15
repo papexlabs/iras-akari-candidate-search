@@ -1,0 +1,2 @@
+second-order expansion vs RK4, worst over 40 members x 245 epochs: 0.0053 arcsec
+straight-line BK fit to two-body tracks with light time: worst residual 0.0038 arcsec

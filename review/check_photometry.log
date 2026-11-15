@@ -1,0 +1,20 @@
+weight=frac: T = 51.7 K, Omega = 1.273e-13 sr, residuals (model/obs - 1) = [-0.045  0.223 -0.358]
+weight=log: T = 47.1 K, Omega = 1.990e-13 sr, residuals (model/obs - 1) = [-0.052  0.399 -0.246]
+T fixed 40 K: Omega 3.475e-13, R(500 au) = 3.90 R_E
+T fixed 45 K: Omega 2.158e-13, R(500 au) = 3.08 R_E
+T fixed 48 K: Omega 1.682e-13, R(500 au) = 2.72 R_E
+T fixed 52 K: Omega 1.248e-13, R(500 au) = 2.34 R_E
+d = 500 au: R = 2.36 R_E (15057 km)
+d = 600 au: R = 2.84 R_E (18068 km)
+d = 700 au: R = 3.31 R_E (21079 km)
+m_sun,r = -26.93: r(500 au) for p=0.03/0.05/0.10/0.30 = 23.85 / 23.29 / 22.54 / 21.35
+m_sun,r = -26.95: r(500 au) for p=0.03/0.05/0.10/0.30 = 23.83 / 23.27 / 22.52 / 21.33
+  H_V route p=0.03: V = 24.02
+  H_V route p=0.05: V = 23.46
+  H_V route p=0.1: V = 22.71
+  H_V route p=0.3: V = 21.52
+repo procedure: T = 48.25 K, Omega = 1.893e-13, R(500 au) = 2.88 R_E, chi2 = 2.76
+consistent weighted fit (same 30 % errors): T = 51.72 K, R(500 au) = 2.36 R_E, chi2 = 2.00
+repo radius, m_sun,r=-26.93: r(500 au) p=0.03/0.05/0.10/0.30 = 23.42 / 22.86 / 22.11 / 20.92
+repo radius, m_sun,r=-26.95: r(500 au) p=0.03/0.05/0.10/0.30 = 23.40 / 22.84 / 22.09 / 20.90
+shift in r from the radius choice: 5 log10(R_repo / R_weighted) = 0.43 mag

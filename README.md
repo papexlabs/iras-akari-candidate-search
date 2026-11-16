@@ -19,7 +19,7 @@ Phan et al. 2025 (PASA 42, e064): a 1983 IRAS source paired with a 2006 AKARI so
 
 Nothing here has been peer reviewed.
 
-Archived copy: https://doi.org/10.5281/zenodo.24245913 · Source: https://github.com/papexlabs/iras-akari-candidate-search
+Note (Papex record, not peer reviewed): https://papex.org/id/PXP-ZNXGJKCF5PMK · Archived copy: https://doi.org/10.5281/zenodo.24245913 · Source: https://github.com/papexlabs/iras-akari-candidate-search
 
 ## Layout
 
